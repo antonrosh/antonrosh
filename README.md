@@ -27,7 +27,7 @@ As a skilled Quality Assurance Automation Lead/SDET with over 7 years of experie
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonrosh)
 
 ## 💻 Tech Stack
 
