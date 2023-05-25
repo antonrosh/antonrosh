@@ -1,45 +1,31 @@
-<h1 align="center">Hi 👋, I'm Anton Rosh</h1>
-<h3 align="center">Skilled SDET / QA Automation Lead</h3>
+# Hello there, I'm Anton! 👋
 
-As a skilled Quality Assurance Automation Lead/SDET with over 7 years of experience in QA, I specialize in creating comprehensive and efficient test automation solutions to enhance product quality and speed to market. With a proven track record of developing test automation frameworks from scratch, I have extensive experience in UI, API, and database testing.
+I'm a versatile SDET & QA Automation Lead with over 7 years of experience in the tech industry. My specialties include creating robust automation frameworks, orchestrating CI/CD processes with Docker and Kubernetes, and improving product quality. I'm adept at working with testing tools like Playwright, Selenium WebDriver, and testing frameworks like TestNG, JUnit, NUnit, and PyTest. With programming expertise in TypeScript, Java, C#, and Python, I'm ready to apply my extensive QA expertise to new challenges.
 
-- 🔍 I'm looking for new opportunities [as SDET / QA Lead](https://www.calendly.com/your-sdet-is-anton-rosh/)
+- 🤖 Over 7 years of experience in comprehensive & efficient test automation solutions.
+- 🚀 Proficient in TypeScript, Java, C#, Python, Docker, Kubernetes, and various testing tools.
+- 🌱 Currently learning **Full-Stack JavaScript Development** and working on [www.antonrosh.dev](http://www.antonrosh.dev)
+- 🔭 Currently working as a QA Lead at [CooperVision](https://coopervision.com)
+- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/antonrosh/)
+- 📝 Regularly write articles on [Medium](https://medium.com/@antonrosh) and [Personal Website](http://www.antonrosh.dev) (TBA)
+- 📬 Reach out via Email: [rosh8442@gmail.com](mailto:rosh8442@gmail.com)
+- 🗓️ Schedule a call: [Calendly](https://www.calendly.com/your-sdet-is-anton-rosh/)
+- ⚡ Fun fact: I have visited most states in the US.
 
-- 🤖 7+ years creating comprehensive & efficient test automation solutions to boost product quality & speed to market.
- 
-- 🚀 Proficient in TypeScript, Java, C# with Playwright, Selenium.
+## 👨‍💻 Skills:
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
+![Playwright](https://img.shields.io/badge/-Playwright-ffffff?logo=Playwright&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-- 🌱 I'm currently learning **Front End Development** and working on **www.antonrosh.dev**
+## 🌟 About Me:
+I am passionate about creating quality products and always excited to learn new things. Let's connect and create amazing things together!
 
-- 🔭 I'm currently working on [CooperVision project](https://coopervision.com)
+![Anton's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=antonrosh&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonrosh&layout=compact&theme=transparent)
 
-- 🚀 I'm currently using [Playwright](https://playwright.dev)
-
-- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/antonrosh/](https://www.linkedin.com/in/antonrosh/)
-
-- 📝 I regularly write articles on **www.medium.com** and **www.antonrosh.dev** (TBA)
-
-- 💬 Ask me about **Playwright, Selenium**
-
-- 📫 How to reach me **rosh8442@gmail.com**
-
-- ⚡ Fun fact is that **I visited most of states in US**
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonrosh)
-
-## 💻 Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Selenium](https://img.shields.io/badge/Selenium-%2300FF00.svg?style=for-the-badge&logo=Selenium&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-%2300B0A0.svg?style=for-the-badge&logo=Playwright&logoColor=white)
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=antonrosh&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antonrosh&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
----
-[![](https://visitcount.itsvg.in/api?id=antonrosh&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=antonrosh&label=Profile%20Views&color=12&icon=1&pretty=false)
