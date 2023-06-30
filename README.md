@@ -4,11 +4,10 @@ I'm a versatile SDET & QA Automation Lead with over 7 years of experience in the
 
 - 🤖 Over 7 years of experience in comprehensive & efficient test automation solutions.
 - 🚀 Proficient in TypeScript, Java, C#, Python, Docker, Kubernetes, and various testing tools.
-- 🌱 Currently learning **Full-Stack JavaScript Development** and working on [www.antonrosh.dev](http://www.antonrosh.dev)
-- 🔭 Currently working as a QA Lead at [CooperVision](https://coopervision.com)
+- 🌱 Currently learning **Full-Stack Development** and working on [www.antonrosh.dev](http://www.antonrosh.dev)
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/antonrosh/)
 - 📝 Regularly write articles on [Medium](https://medium.com/@antonrosh) and [Personal Website](http://www.antonrosh.dev) (TBA)
-- 📬 Reach out via Email: [rosh8442@gmail.com](mailto:rosh8442@gmail.com)
+- 📬 Reach out via Email: [me@antonrosh.dev](mailto:me@antonrosh.dev)
 - 🗓️ Schedule a call: [Calendly](https://www.calendly.com/your-sdet-is-anton-rosh/)
 - ⚡ Fun fact: I have visited most states in the US.
 
