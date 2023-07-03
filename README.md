@@ -12,14 +12,14 @@ I'm a versatile SDET & QA Automation Lead with over 7 years of experience in the
 - ⚡ Fun fact: I have visited most states in the US.
 
 ## 👨‍💻 Skills:
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
-![Playwright](https://img.shields.io/badge/-Playwright-ffffff?logo=Playwright&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java)](https://www.oracle.com/java/)
+[![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)](https://www.selenium.dev/)
+[![Playwright](https://img.shields.io/badge/-Playwright-ffffff?logo=Playwright&logoColor=black)](https://playwright.dev/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ## 🌟 About Me:
 I am passionate about creating quality products and always excited to learn new things. Let's connect and create amazing things together!
