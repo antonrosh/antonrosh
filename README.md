@@ -28,3 +28,4 @@ I am passionate about creating quality products and always excited to learn new 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonrosh&layout=compact&theme=transparent)
 
 ![](https://visitcount.itsvg.in/api?id=antonrosh&label=Profile%20Views&color=12&icon=1&pretty=false)
+![](https://hit.yhype.me/github/profile?user_id=50534148)
