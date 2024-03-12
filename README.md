@@ -1,6 +1,6 @@
 # Welcome to Anton's Professional Space! 👋
 
-I am Anton, a distinguished Software Development Engineer in Test (SDET) and QA Automation Lead, boasting over 7 years of experience in the technology sector. My expertise encompasses developing resilient automation frameworks, managing Continuous Integration/Continuous Deployment (CI/CD) processes utilizing Docker and Kubernetes, and enhancing product quality through meticulous testing.
+I am Anton, a distinguished Software Development Engineer in Test (SDET) and QA Automation Lead, boasting over 8 years of experience in the technology sector. My expertise encompasses developing resilient automation frameworks, managing Continuous Integration/Continuous Deployment (CI/CD) processes utilizing Docker and Kubernetes, and enhancing product quality through meticulous testing.
 
 With a strong command over TypeScript, Java, C#, and Python, I excel in employing top-tier testing tools like Playwright, Selenium WebDriver, and frameworks such as TestNG, JUnit, NUnit, and PyTest. I am dedicated to leveraging my comprehensive QA knowledge to tackle new challenges in the field.
 
